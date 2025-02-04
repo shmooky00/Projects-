@@ -1,0 +1,7 @@
+C:\Users\casse\Desktop\AlgorithmPrograms\search algo\search algo\bin\Debug\search algo.exe.config
+C:\Users\casse\Desktop\AlgorithmPrograms\search algo\search algo\bin\Debug\search algo.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\search algo\search algo\bin\Debug\search algo.pdb
+C:\Users\casse\Desktop\AlgorithmPrograms\search algo\search algo\obj\Debug\search algo.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\search algo\search algo\obj\Debug\search algo.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\search algo\search algo\obj\Debug\search algo.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\search algo\search algo\obj\Debug\search algo.pdb
