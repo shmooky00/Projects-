@@ -1,0 +1,19 @@
+BIO 107 Foundations of Biology
+CHM 111 General Chemistry
+BIO 112 Intro to Cellular Biology
+CHM 221 Organic Chemistry I
+BIO 225 Human A & P I
+CHM 222 Organic Chemistry II
+PSY 205/MAT 105Statistical Psych/Elem. Stat. Methods
+BIO 326 Human A & P II
+CHM 232 Quantitative Chemistry
+BIO 317 Biochemistry I
+BIO 319 Genetics
+PHY 181 General Physics I
+PSY 201 Intro to Psychology
+BIO 305 Microbiology
+BIO 421 Genomics
+PHY 182 General Physics II
+BIO 315 Immunology
+BIO 419 EVS 111/221 Environmental Science/Environmental Ethics
+BIO 405 Molecular Biology

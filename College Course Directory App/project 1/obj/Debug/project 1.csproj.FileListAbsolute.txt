@@ -1,0 +1,11 @@
+C:\Users\casse\Desktop\Projects\project 1\project 1\bin\Debug\project 1.exe.config
+C:\Users\casse\Desktop\Projects\project 1\project 1\bin\Debug\project 1.exe
+C:\Users\casse\Desktop\Projects\project 1\project 1\bin\Debug\project 1.pdb
+C:\Users\casse\Desktop\Projects\project 1\project 1\obj\Debug\project 1.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\Projects\project 1\project 1\obj\Debug\project_1.courseSelectForm.resources
+C:\Users\casse\Desktop\Projects\project 1\project 1\obj\Debug\project_1.Properties.Resources.resources
+C:\Users\casse\Desktop\Projects\project 1\project 1\obj\Debug\project 1.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\Projects\project 1\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Projects\project 1\project 1\obj\Debug\project 1.exe
+C:\Users\casse\Desktop\Projects\project 1\project 1\obj\Debug\project 1.pdb
+C:\Users\casse\Desktop\Projects\project 1\project 1\obj\Debug\project_1.homeForm.resources

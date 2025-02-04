@@ -1,0 +1,10 @@
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\bin\Debug\Project 2 - Vending Machine.exe.config
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\bin\Debug\Project 2 - Vending Machine.exe
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\bin\Debug\Project 2 - Vending Machine.pdb
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\obj\Debug\Project 2 - Vending Machine.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\obj\Debug\Project_2___Vending_Machine.Form1.resources
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\obj\Debug\Project_2___Vending_Machine.Properties.Resources.resources
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\obj\Debug\Project 2 - Vending Machine.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\obj\Debug\Project 2 - Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\obj\Debug\Project 2 - Vending Machine.exe
+C:\Users\casse\Desktop\Projects\Project 2 - Vending Machine\Project 2 - Vending Machine\obj\Debug\Project 2 - Vending Machine.pdb

@@ -1,0 +1,30 @@
+ACC 151 Principles of Accounting I
+BUS 110 Business Foundations
+BUS 140 Introduction of Business Computing
+ACC 152 Principles of Accounting II
+ACC 256 Managerial Accounting
+ACC 261 Intermediate Accounting I
+BUS 241 Business Analytics I
+ECO 211 Microeconomics
+HUM 203 Making the West
+HUM 303 Perspecitves
+ACC 262 Intermediate Accounting II
+ACC 350 Accounting Systems & Application
+BUS 242 Business Analytics II
+ECO 212 Macroeconomics
+ACC 357 Taxation
+ACC 363 Advanced Accounting
+BUS 310 Principles of Management
+BUS 311 Business Law
+BUS 330 Principles of Finance
+BIB 300 Biblical Worldview
+SCS 110 Introduction to Natural Science
+PED 103 Physical Fitness
+ACC 365/BUS 335Special Topics/Financial Statement Analysis
+ACC 457 Auditing
+BUS 314 International Business
+BUS 320 Principles of Marketing
+BUS 400 Biblical Management and Business Ethics Society Group 
+BUS 344 Management of Information Systems
+BUS 410 Strategic Managment
+BUS 411 Advanced Business La
