@@ -1,0 +1,7 @@
+C:\Users\casse\Desktop\AlgorithmPrograms\week5algo\week5algo\bin\Debug\week5algo.exe.config
+C:\Users\casse\Desktop\AlgorithmPrograms\week5algo\week5algo\bin\Debug\week5algo.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\week5algo\week5algo\bin\Debug\week5algo.pdb
+C:\Users\casse\Desktop\AlgorithmPrograms\week5algo\week5algo\obj\Debug\week5algo.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\week5algo\week5algo\obj\Debug\week5algo.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\week5algo\week5algo\obj\Debug\week5algo.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\week5algo\week5algo\obj\Debug\week5algo.pdb
