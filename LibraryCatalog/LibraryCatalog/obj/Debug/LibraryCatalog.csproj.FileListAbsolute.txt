@@ -1,0 +1,7 @@
+C:\Users\casse\Desktop\AlgorithmPrograms\LibraryCatalog\LibraryCatalog\bin\Debug\LibraryCatalog.exe.config
+C:\Users\casse\Desktop\AlgorithmPrograms\LibraryCatalog\LibraryCatalog\bin\Debug\LibraryCatalog.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\LibraryCatalog\LibraryCatalog\bin\Debug\LibraryCatalog.pdb
+C:\Users\casse\Desktop\AlgorithmPrograms\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.pdb
